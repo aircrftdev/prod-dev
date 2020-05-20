@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "flightdeck-mb-v1",
-  "version": "1.4.2",
+  "version": "1.6.0",
   "description": "",
   "main": "gulpfile.js",
   "author": "aircrft.com",
